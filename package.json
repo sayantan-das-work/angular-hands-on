@@ -1,0 +1,26 @@
+{
+  "name": "angular_hands_on",
+  "version": "1.0.0",
+  "description": "Sample codes from learning Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayantan-das-work/angular-hands-on.git"
+  },
+  "keywords": [
+    "angular",
+    "frontend"
+  ],
+  "author": "Sayantan Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayantan-das-work/angular-hands-on/issues"
+  },
+  "homepage": "https://github.com/sayantan-das-work/angular-hands-on#readme",
+  "dependencies": {
+    "@angular/cli": "^14.0.6"
+  }
+}
